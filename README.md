@@ -1,5 +1,5 @@
 <h2 style="text-align:center">Laundry App With Firebase Backend </h2>
- 
- ![Laundry App With Firebase Backend](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/lambert/Laundry%20App%20With%20Firebase%20Backend.webp) 
- 
- The Laundry App With Firebase Backend frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/lambert-laundry-app-with-firebase-backend" target="_blank">click here</a>.
+  
+  ![Laundry App With Firebase Backend](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/lambert/Laundry%20App%20With%20Firebase%20Backend.webp) 
+  
+  The Laundry App With Firebase Backend frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=lambert-laundry-app-with-firebase-backend" target="_blank">click here</a>.
